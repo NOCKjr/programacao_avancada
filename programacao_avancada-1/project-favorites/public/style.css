@@ -1,0 +1,24 @@
+
+.corpo {
+    background-color: gray;
+}
+h1 {
+    color: red;
+    text-size-adjust:
+}
+
+.container {
+    text-align: center; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 4em;
+    border-radius: 1em;
+}
+
+.form{
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
